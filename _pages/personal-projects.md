@@ -7,7 +7,7 @@ author_profile: true
 
 ## Sports Betting Predictor Model
 
-![Model logo](/images/nba-model-pic.PNG){:width="350px" height="200px"}
+![Model logo](/images/nba-model-pic.PNG){:width="350px" height="200px"} 
 
 ### Project Overview
 I developed a machine learning sports betting predictor focused on optimizing player bet predictions based on past game performances. This project was primarily to assess the model's theoretical performance rather than for profit generation.
