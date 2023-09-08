@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "DSPy"
+excerpt: "<img src='/images/DSPy8.png'><br> DSPy is a groundbreaking framework designed to address advanced tasks using language models (LMs) and retrieval models (RMs). With DSPy, programming is emphasized over traditional prompting techniques as you can express any pipeline using clean, Pythonic control flow and incorporate models like GPT-3.5, Llama2 and T5. DSPy introduces a revolutionary perspective that unifies the realms of prompting, finetuning, reasoning, and retrieval augmentation, providing an efficient and effective solution to LM-based task solving. Drawing inspiration from PyTorch, DSPy allows users to declare needed modules alongside their functionality, rather than focusing on implementation details. The DSPy compiler then automatically traces the modularized format, training LMs to execute declarative steps and crafting meticulously designed prompts and finetunes for the LMs. Signatures introduce a declarative specification of input/output behavior for DSPy modules, allowing for intuitive and efficient communication of clear instructions to LMs, while Teleprompters guide the fine-tuning of LMs, learning from demonstrations to generate effective prompts for desired tasks. In essence, DSPy provides an ecosystem that streamlines LM-based task solving from concept to completion, representing a paradigm shift in the landscape of ML and AI.
+
+I've had the great pleasure of working under the mentorship of Omar Khattab and the DSPy team at Stanford in bringing the fabulous creation of DSPy to life."
+
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
