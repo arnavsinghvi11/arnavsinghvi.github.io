@@ -14,6 +14,9 @@ Hey there! 👋 I'm Arnav, an undergraduate senior CS student at the **Universit
 ### NLP Research
 - Worked on the [DSPy research project](https://github.com/stanfordnlp/dspy) under the mentorship of Stanford Ph.D. student [Omar Khattab](https://omarkhattab.com/) within the *Stanford NLP group*.
 - Supervisory guidance from [Professor Matei Zaharia](https://people.eecs.berkeley.edu/~matei/) and [Professor Christopher Potts](https://web.stanford.edu/~cgpotts/).
+- [DSPy Paper](https://arxiv.org/abs/2310.03714)
+  - *Submitted to **ICLR 2024** and currently under review.*
+  - *Submitted to the **NeurIPS 2023 Workshop R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models** and currently under review.*
 
 ### Systems ML Research
 - Collaborated on the PORT research project  under the mentorship of Ph.D. student [Shishir Patil](https://shishirpatil.github.io/) at the *UC Berkeley Sky Computing Lab*.

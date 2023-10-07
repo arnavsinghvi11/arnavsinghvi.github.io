@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## <a href="https://github.com/stanfordnlp/dspy"> DSPy </a>
+*Submitted to **ICLR 2024** and currently under review.*  
+*Submitted to the **NeurIPS 2023 Workshop R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models** and currently under review.*
 
 <a href="https://github.com/stanfordnlp/dspy">
   ![DSPy Logo](/images/DSPy8.png){:width="200px" height="150px"}
@@ -17,6 +19,7 @@ I've had the great pleasure of working under the mentorship of [Omar Khattab](ht
 
 Want to learn more? Check out these resources:
 
+- [arXiv](https://arxiv.org/abs/2310.03714): Explore our paper on arXiv.
 - [GitHub](https://github.com/stanfordnlp/dspy): Explore the code and project details on GitHub.
 - [Twitter/X Thread](https://twitter.com/lateinteraction/status/1694748401374490946): Follow the discussion and updates on the release thread.
 
@@ -25,9 +28,9 @@ Want to learn more? Check out these resources:
 
 <img src="/images/port.png" width="600px" height="450px">
 
-This project involves expanding on the existing [POET (Private Optimal Energy Training)](https://shishirpatil.github.io/poet/) framework and leveraging optimization techniques to ensure further compatible training on devices with limited memory constraints to be launched as PORT (unofficially POET 2.0 - Private Optimal Runtime Training).
+PORT (Private Optimal Runtime Training) is a heuristic that accelerates network runtime and optimizes RAM usage for training LLMs on memory-constrained devices by leveraging their unified memory. Stemming from [POET (Private Optimal Energy Training)](https://shishirpatil.github.io/poet/), PORT refines specific layers and frames training as an ILP, enabling dynamic selection of the best accelerator for each network node and leading to substantial runtime enhancements across diverse devices.
 
-I've had the great pleasure of working under the mentorship of [Shishir Patil](https://shishirpatil.github.io/) and the research team at the Sky Lab in UC Berkeley in revitalizing POET with this greater release.
+I've had the great pleasure of working under the mentorship of [Shishir Patil](https://shishirpatil.github.io/) and the research team at the Sky Lab in UC Berkeley.
 
 
 ## Quadrotor Drone Stability (in-progress)
