@@ -26,7 +26,7 @@ Want to learn more? Check out these resources:
 
 ## PORT (in-progress)
 
-<img src="/images/port.png" width="600px" height="450px">
+<img src="{{ site.baseurl }}/images/port.png" width="600px" height="450px">
 
 PORT (Private Optimal Runtime Training) is a heuristic that accelerates network runtime and optimizes RAM usage for training LLMs on memory-constrained devices by leveraging their unified memory. Stemming from [POET (Private Optimal Energy Training)](https://shishirpatil.github.io/poet/), PORT refines specific layers and frames training as an ILP, enabling dynamic selection of the best accelerator for each network node and leading to substantial runtime enhancements across diverse devices.
 
@@ -35,8 +35,7 @@ I've had the great pleasure of working under the mentorship of [Shishir Patil](h
 
 ## Quadrotor Drone Stability (in-progress)
 
-<img src="/images/drone.png" width="200px" height="150px">
-
+<img src="{{ site.baseurl }}/images/drone.png" width="400px" height="250px">
 
 This project involves training quadrotor drones to stabilize and reach target positions while simulating under environments where one, two or three propellors experience failure. 
 

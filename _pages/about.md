@@ -19,12 +19,13 @@ Hey there! 👋 I'm Arnav, an undergraduate senior CS student at the **Universit
   - *Submitted to the **NeurIPS 2023 Workshop R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models** and currently under review.*
 
 ### Systems ML Research
-- Collaborated on the PORT research project  under the mentorship of Ph.D. student [Shishir Patil](https://shishirpatil.github.io/) at the *UC Berkeley Sky Computing Lab*.
+- Collaborated on the PORT research project under the mentorship of Ph.D. student [Shishir Patil](https://shishirpatil.github.io/) at the *UC Berkeley Sky Computing Lab*.
 - Supervisory guidance from [Professor Joseph Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/).
 
 ### Hybrid Robotics Research
 - Engaged in research on the Quadrotor drone project under the mentorship of Ph.D. student [Zhongyu Li](https://zyliatzju.github.io/) at the *UC Berkeley Hybrid Robotics Research group*.
 - Supervisory guidance from [Professor Koushil Sreenath](https://me.berkeley.edu/people/koushil-sreenath/).
+
 ## Internships 🌟
 - **Amazon:** Software Development Engineering intern (2023 & 2022 summers).
 - **Corsair:** Beta Software intern (2021 summer-fall).
