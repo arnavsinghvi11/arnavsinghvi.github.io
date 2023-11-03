@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Undergraduate Computer Science student at UC Berkeley"
   employer         :
-  # googlescholar    : "https://google.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=gEmVAFcAAAAJ&view_op=list_works&gmla=AH70aAXFGAtLf7ZO0va04LhffUopH3EgSZLHgWjYEwbdJAkwosnbo0xiGjXxnxiQRg8D1zB3UpyGf5Ql0481GZwjzjhahTfLBxI8sg"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

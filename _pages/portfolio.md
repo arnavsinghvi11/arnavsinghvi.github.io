@@ -13,9 +13,9 @@ author_profile: true
   ![DSPy Logo](/images/DSPy8.png){:width="200px" height="150px"}
 </a>
 
-DSPy is a groundbreaking framework designed to address advanced tasks using language models (LMs) and retrieval models (RMs). With DSPy, programming is emphasized over traditional prompting techniques as you can express any pipeline using clean, Pythonic control flow and incorporate models like GPT-3.5, Llama2, and T5. DSPy introduces a revolutionary perspective that unifies the realms of prompting, finetuning, reasoning, and retrieval augmentation, providing an efficient and effective solution to LM-based task solving. Drawing inspiration from PyTorch, DSPy allows users to declare needed modules alongside their functionality, rather than focusing on implementation details. The DSPy compiler then automatically traces the modularized format, training LMs to execute declarative steps and crafting meticulously designed prompts and finetunes for the LMs. Signatures introduce a declarative specification of input/output behavior for DSPy modules, allowing for intuitive and efficient communication of clear instructions to LMs, while Teleprompters guide the fine-tuning of LMs, learning from demonstrations to generate effective prompts for desired tasks. In essence, DSPy provides an ecosystem that streamlines LM-based task solving from concept to completion, representing a paradigm shift in the landscape of ML and AI.
+DSPy is a groundbreaking framework designed to address advanced tasks using language models (LMs) and retrieval models (RMs). With DSPy, programming is emphasized over traditional prompting techniques as you can express any pipeline using clean, Pythonic control flow and incorporate models like GPT-3.5, Llama2, and T5. DSPy introduces a revolutionary perspective that unifies prompting, finetuning, reasoning, and retrieval augmentation, providing a comprehensive solution to LM-based task solving. Drawing inspiration from PyTorch, DSPy allows users to declare needed modules alongside their functionality, rather than focusing on implementation details. The DSPy compiler then automatically traces the modularized format, training LMs to execute declarative steps with optimized prompts for the LMs. Signatures allow for this declarative specification of input/output behavior in  DSPy modules, allowing for intuitive communication of clear instructions to LMs, while Teleprompters optimize the performance of LMs, learning from demonstrations to generate effective prompts for desired tasks. In essence, DSPy provides a novel framework that streamlines LM-based task solving from concept to completion, representing a paradigm shift in language model prompting.
 
-I've had the great pleasure of working under the mentorship of [Omar Khattab](https://omarkhattab.com/) and the DSPy team at Stanford in bringing the fabulous creation of DSPy to life.
+I've had the great pleasure of working under the mentorship of [Omar Khattab](https://omarkhattab.com/) and the DSPy team at Stanford in bringing DSPy to life.
 
 Want to learn more? Check out these resources:
 
@@ -26,9 +26,9 @@ Want to learn more? Check out these resources:
 
 ## PORT (in-progress)
 
-<img src="{{ site.baseurl }}/images/port.png" width="600px" height="450px">
+<img src="{{ site.baseurl }}/images/PORT_unified_memory.PNG" width="600px" height="450px">
 
-PORT (Private Optimal Runtime Training) is a heuristic that accelerates network runtime and optimizes RAM usage for training LLMs on memory-constrained devices by leveraging their unified memory. Stemming from [POET (Private Optimal Energy Training)](https://shishirpatil.github.io/poet/), PORT refines specific layers and frames training as an ILP, enabling dynamic selection of the best accelerator for each network node and leading to substantial runtime enhancements across diverse devices.
+PORT (Private Optimal Runtime Training) is a solver framework that optimizes network runtime and optimizes RAM usage for training models on memory-constrained devices. By leveraging unified memory of device accelerators, PORT refines network layers and frames training as an ILP, enabling dynamic selection of the best accelerator for each network node and leading to substantial runtime enhancements across diverse devices.
 
 I've had the great pleasure of working under the mentorship of [Shishir Patil](https://shishirpatil.github.io/) and the research team at the Sky Lab in UC Berkeley.
 
