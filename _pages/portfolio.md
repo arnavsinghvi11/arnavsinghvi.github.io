@@ -24,10 +24,10 @@ Want to learn more? Check out these resources:
 - [Twitter/X Thread](https://twitter.com/lateinteraction/status/1694748401374490946): Follow the discussion and updates on the release thread.
 
 
-## PORT (in-progress)
+## PORT
+*Submitted to **MLSYS 2024** and currently under review.*  
 
-<img src="{{ site.baseurl }}/images/PORT_unified_memory.PNG" width="600px" height="450px">
-
+<img src="{{ site.baseurl }}/images/PORT_unified_memory.PNG" width="400px" height="250px">
 PORT (Private Optimal Runtime Training) is a solver framework that optimizes network runtime and optimizes RAM usage for training models on memory-constrained devices. By leveraging unified memory of device accelerators, PORT refines network layers and frames training as an ILP, enabling dynamic selection of the best accelerator for each network node and leading to substantial runtime enhancements across diverse devices.
 
 I've had the great pleasure of working under the mentorship of [Shishir Patil](https://shishirpatil.github.io/) and the research team at the Sky Lab in UC Berkeley.
