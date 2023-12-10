@@ -7,7 +7,8 @@ author_profile: true
 
 ## <a href="https://github.com/stanfordnlp/dspy"> DSPy </a>
 *Accepted to the **NeurIPS 2023 Workshop R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models***
-*Submitted to **ICLR 2024** and currently under review.*  
+
+*Under review.*
 
 <a href="https://github.com/stanfordnlp/dspy">
   ![DSPy Logo](/images/DSPy8.png){:width="200px" height="150px"}
@@ -25,7 +26,8 @@ Want to learn more? Check out these resources:
 
 
 ## PORT
-*Submitted to **MLSYS 2024** and currently under review.*  
+
+*Under review.* 
 
 <img src="{{ site.baseurl }}/images/PORT_unified_memory.PNG" width="400px" height="250px">
 PORT (Private Optimal Runtime Training) is a solver framework that optimizes network runtime and optimizes RAM usage for training models on memory-constrained devices. By leveraging unified memory of device accelerators, PORT refines network layers and frames training as an ILP, enabling dynamic selection of the best accelerator for each network node and leading to substantial runtime enhancements across diverse devices.
