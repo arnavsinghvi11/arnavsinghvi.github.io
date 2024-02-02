@@ -16,7 +16,7 @@ Hey there! 👋 I'm Arnav, an undergraduate senior CS student at the **Universit
 - Supervisory guidance from [Professor Matei Zaharia](https://people.eecs.berkeley.edu/~matei/) and [Professor Christopher Potts](https://web.stanford.edu/~cgpotts/).
 - [DSPy Paper](https://arxiv.org/abs/2310.03714)
   - *Accepted to the **NeurIPS 2023 Workshop R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models***
-  *Under review.* 
+  - *Accepted to the **Twelfth International Conference on Learning Representations (ICLR 2024)*** 
 
 ### Systems ML Research
 - Collaborated on the PORT research project under the mentorship of Ph.D. candidate [Shishir Patil](https://shishirpatil.github.io/) at the *UC Berkeley Sky Computing Lab*.

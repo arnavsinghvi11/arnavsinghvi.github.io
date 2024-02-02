@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## <a href="https://github.com/stanfordnlp/dspy"> DSPy </a>
+*Accepted to the **Twelfth International Conference on Learning Representations (ICLR 2024)*** 
 *Accepted to the **NeurIPS 2023 Workshop R0-FoMo: Robustness of Few-shot and Zero-shot Learning in Large Foundation Models***
 
-*Under review.*
 
 <a href="https://github.com/stanfordnlp/dspy">
   ![DSPy Logo](/images/DSPy8.png){:width="200px" height="150px"}
