@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arnav Singhvi"
 title_separator          : "-"
 name                     : &name "Arnav Singhvi"
-description              : &description "Undergraduate Computer Science student at UC Berkeley"
+description              : &description "Masters Computer Science student at Stanford"
 url                      : https://arnavsinghvi11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arnavsinghvi11/arnavsinghvi11.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arnav Singhvi"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Computer Science student at UC Berkeley"
+  bio              : "Masters Computer Science student at Stanford"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gEmVAFcAAAAJ&view_op=list_works&gmla=AH70aAXFGAtLf7ZO0va04LhffUopH3EgSZLHgWjYEwbdJAkwosnbo0xiGjXxnxiQRg8D1zB3UpyGf5Ql0481GZwjzjhahTfLBxI8sg"
   email            :

@@ -26,12 +26,10 @@ To optimize the predictions:
 ### Results
 While an "educated" bettor generally achieves around a 50% success rate on NBA bets to truly generate a profit (and casual bettors having even lower success rates), my model demonstrated an overall best accuracy of 61% for the 2022-23 NBA season with other varying strategies spanning from 54-60% accuracy. It's important to note, however, that these results come with the underlying consideration of variability with the volume of bets.
 
-Stay tuned for the model's release for the 2023-24 season! (Model in development for first months of season)
+Check out the models below! Expanded to now cover the NBA, MLB and NFL!
 
-[🏀 2022-23 NBA Season Model](https://github.com/arnavsinghvi11/NBA_Betting_Model)
+[🏀 NBA Season Model](https://github.com/arnavsinghvi11/NBA_Betting_Model)
 
-------------------------------------------------------------------------------------------------------------------------
+[⚾ MLB Season Model](https://github.com/arnavsinghvi11/MLB_Betting_Model)
 
-MLB betting is a unique challenge. In a sport where a batter is considered exceptional hitting once every three at-bats, there's inherent unpredictability throughout the 162-game season. Even professional bettors often achieve success rates of around 40% but can still turn a profit. For the 2023 season, my updated MLB framework has a peak accuracy rate of 49%. However, this current model doesn't yet include the multiplicative weights algorithm, which is in development for future seasons and offers the possibility of even greater accuracy.
-
-[⚾ 2023 MLB Season Model](https://github.com/arnavsinghvi11/MLB_Betting_Model)
+[🏈 NFL Season Model](https://github.com/arnavsinghvi11/NFL_Betting_Model)
